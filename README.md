@@ -23,7 +23,6 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/Naman9761/Zyra_A-Video-Conferencing-App.git
-cd zoom-clone
 ```
 
 **Installation**
@@ -48,8 +47,6 @@ NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
 NEXT_PUBLIC_STREAM_API_KEY=
 STREAM_SECRET_KEY=
 ```
-
-Replace the placeholder values with your actual Clerk & getstream credentials. You can obtain these credentials by signing up on the [Clerk website](https://clerk.com/) and [getstream website](https://getstream.io/)
 
 **Running the Project**
 
